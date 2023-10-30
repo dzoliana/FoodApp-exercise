@@ -20,3 +20,5 @@ This project was bootstrapped with **Create React App**.
   -add util folder with formating.js file for currency formatting
 - adding UI folder
   - add Button component
+- add folder store
+  - add CartContext component with CartContextProvider() function for managing cart data in centralized way
