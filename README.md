@@ -12,3 +12,9 @@ This project was bootstrapped with **Create React App**.
 ## Deployed site
 
 ## Workflow
+
+- add Header
+- add Meals component
+  - fetch data from backend with fetchMeals() function
+- add MealItem component with meal details
+  -add util folder with formating.js file for currency formatting
