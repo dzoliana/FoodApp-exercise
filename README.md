@@ -18,3 +18,5 @@ This project was bootstrapped with **Create React App**.
   - fetch data from backend with fetchMeals() function
 - add MealItem component with meal details
   -add util folder with formating.js file for currency formatting
+- adding UI folder
+  - add Button component
