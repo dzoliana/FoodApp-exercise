@@ -24,3 +24,5 @@ This project was bootstrapped with **Create React App**.
   - add CartContext component with CartContextProvider() function for managing cart data in centralized way
 - creating 'handleAddMealToCart' for handling button click in MealItem.jsx
 - creating 'totalCartItems' in Header.jsx for updating number of items in cart
+- creating Modal.jsx for cart opening
+  - using createPortal
