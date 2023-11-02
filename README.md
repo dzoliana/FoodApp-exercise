@@ -29,3 +29,4 @@ This project was bootstrapped with **Create React App**.
 - creating Cart.jsx component for cart details
 - creating UserProgressContext.jsx for managing modal window (progress property for show or hide)
 - adding Cart component in App.jsx
+- creating CartItem.jsx for item details in Cart
