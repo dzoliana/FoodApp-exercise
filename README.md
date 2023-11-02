@@ -26,3 +26,6 @@ This project was bootstrapped with **Create React App**.
 - creating 'totalCartItems' in Header.jsx for updating number of items in cart
 - creating Modal.jsx for cart opening
   - using createPortal
+- creating Cart.jsx component for cart details
+- creating UserProgressContext.jsx for managing modal window (progress property for show or hide)
+- adding Cart component in App.jsx
