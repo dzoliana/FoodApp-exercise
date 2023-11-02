@@ -43,3 +43,18 @@ This project was bootstrapped with **Create React App**.
 
     - creating form data object to constructor function FormData for holding user entered values
     - converting form data object fd to simpler JS object using Object.fromEntries() and passing form data entries()
+
+      ```
+      fetch("http://localhost:3000/orders", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              order: {
+                items: cartCtx.items,
+                customer: customerData,
+              },
+            }),
+          });
+      ```
+
+    - using method 'POST' for sending data to backend
