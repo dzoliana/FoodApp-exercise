@@ -36,7 +36,8 @@ This project was bootstrapped with **Create React App**.
 
   - adding function handleSubmit in Checkout component
 
-    ```const fd = new FormData(event.target);
+    ```
+    const fd = new FormData(event.target);
     const customerData = Object.fromEntries(fd.entries()); //{email: test@example.com}
     ```
 
