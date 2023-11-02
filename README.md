@@ -32,3 +32,10 @@ This project was bootstrapped with **Create React App**.
 - creating CartItem.jsx for item details in Cart
 - creating Checkout.jsx component for checkout button
 - creating Input.jsx component for optimizing code inputs inside form
+- form submission and sending request to beckend
+  - adding function handleSubmit in Checkout component
+    ````const fd = new FormData(event.target);
+    const customerData = Object.fromEntries(fd.entries()); //{email: test@example.com}```
+    - creating form data object to constructor function FormData for holding user entered values
+    - converting form data object fd to simpler JS object using Object.fromEntries() and passing form data entries()
+    ````
