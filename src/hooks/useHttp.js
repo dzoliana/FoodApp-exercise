@@ -21,11 +21,12 @@ export default function useHttp(url, config, initialData) {
   const [error, setError] = useState();
 
   //function is about updating some state based on the request status
+  //sendRequest can be used when the data is only passed at the point of time where we're ready to send the request (in Checkout, not in advance as in Meals)
   const sendRequest = useCallback(
-    async function sendRequest() {
+    async function sendRequest(data) {
       setIsLoading(true);
       try {
-        const resData = await sendHttpRequest(url, config);
+        const resData = await sendHttpRequest(url, { ...config, body: data });
         setData(resData);
       } catch (error) {
         setError(error.message || "Something went wrong!");

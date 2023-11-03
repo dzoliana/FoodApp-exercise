@@ -67,4 +67,4 @@ This project was bootstrapped with **Create React App**.
       - object with order property which hold a nested object with items and customer property
 
 - creating new folder hooks with file useHttp.js
-- creating Error.jsx component for
+- creating Error.jsx component for dispaying error text and message
