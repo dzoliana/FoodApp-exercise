@@ -59,4 +59,7 @@ This project was bootstrapped with **Create React App**.
 
     - using method 'POST' for sending data to backend
     - adding headers so backend understands that we are submitting some data in JSON format
-    - stringifying the order object before passing it as a payload
+    - stringifying takes any standard JS value to convert it to JSON
+      - object with order property which hold a nested object with items and customer property
+
+- creating new folder hooks with file useHttp.js
