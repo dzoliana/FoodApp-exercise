@@ -20,6 +20,11 @@ export default function useHttp(url, config, initialData) {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState();
 
+  //function for setting data to initial state so we can again add items to Cart after previous submitting
+  function clearData() {
+    setData(initialData);
+  }
+
   //function is about updating some state based on the request status
   //sendRequest can be used when the data is only passed at the point of time where we're ready to send the request (in Checkout, not in advance as in Meals)
   const sendRequest = useCallback(
@@ -47,5 +52,6 @@ export default function useHttp(url, config, initialData) {
     isLoading,
     error,
     sendRequest,
+    clearData,
   };
 }

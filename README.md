@@ -68,3 +68,7 @@ This project was bootstrapped with **Create React App**.
 
 - creating new folder hooks with file useHttp.js
 - creating Error.jsx component for dispaying error text and message
+- using useHttp in Meals and Checkout component
+- adding Modal in Checkout for displaying Success msg
+- adding function handleFinish() (in Checkout) to clear Cart
+  - adding clearCart function and new action (CLEAR_CART) to CartContext

@@ -128,8 +128,8 @@ h1 {
   margin-right: 30%;
   text-align: center;
   color: #312c1d;
-  background-color: #f25c5ca1;
-  border: 1px solid #e20c10;
+  background-color: rgba(242, 128, 128, 0.784);
+  border: 5px solid #e20c10;
   border-radius: 8px;
   display: flex;
   justify-content: center;
