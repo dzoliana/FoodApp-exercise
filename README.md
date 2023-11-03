@@ -1,5 +1,21 @@
 <h1 align="center">FoodApp</h1>
 
+- main page with list of meals
+- button Add To Cart for adding meals
+- Modal window Cart with list of added items we can change their amounts and 2 buttons for Close and Checkout
+- Modal window Checkout with form input info and 2 buttons Close and Submit
+- Modal window with success message
+- handling errors and loading situations
+
+<p>
+    <img src="/src/assets/main.png" hspace="10" >
+    <img src="/src/assets/Cart.png" hspace="10" >
+    <img src="/src/assets/Checkout.png" hspace="10" >
+    <img src="/src/assets/Success.png" hspace="10" >
+    <img src="/src/assets/Fetching.png" hspace="10" >
+    <img src="/src/assets/ErrorFetching.png" hspace="10" >
+</p>
+
 ## Getting started
 
 This project was bootstrapped with **Create React App**.
