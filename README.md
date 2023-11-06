@@ -8,15 +8,20 @@
 - handling errors and loading situations
 
 > Main page
-> ![main](/src/assets/main.png=100x20 "Main page")
+> <img src="/src/assets/main.png" alt="drawing" width="200"/>
+
 > Cart
 > ![main](/src/assets/Cart.png "Cart")
+
 > Checkout
 > ![main](/src/assets/Checkout.png "Checkout")
+
 > Order success
 > ![main](/src/assets/Success.png "Order success")
+
 > Fetching data
 > ![main](/src/assets/Fetching.png "Fetching data")
+
 > Error fetching
 > ![main](/src/assets/ErrorFetching.png "Error fetching")
 
