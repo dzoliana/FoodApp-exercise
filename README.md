@@ -9,11 +9,17 @@
 
 <p>
     <img src="/src/assets/main.png" hspace="10" >
+    > Main page
     <img src="/src/assets/Cart.png" hspace="10" >
+    > Cart
     <img src="/src/assets/Checkout.png" hspace="10" >
+    > Checkout
     <img src="/src/assets/Success.png" hspace="10" >
+    > Order success
     <img src="/src/assets/Fetching.png" hspace="10" >
+    > Fetching data
     <img src="/src/assets/ErrorFetching.png" hspace="10" >
+    > Error fetching
 </p>
 
 ## Getting started
