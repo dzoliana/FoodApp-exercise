@@ -12,25 +12,36 @@
 <p align="center">
  <img src="/src/assets/main.png" alt="drawing" width="500"/>
 </p>
+
 #### Cart
 
- <img align="center" src="/src/assets/Cart.png" alt="drawing" width="500"/>
+<p align="center">
+ <img src="/src/assets/Cart.png" alt="drawing" width="500"/>
+</p>
 
 #### Checkout
 
-![main](/src/assets/Checkout.png "Checkout")
+<p align="center">
+ <img src="/src/assets/Checkout.png" alt="drawing" width="500"/>
+</p>
 
 #### Order success
 
-![main](/src/assets/Success.png "Order success")
+<p align="center">
+ <img src="/src/assets/Success.png" alt="drawing" width="500"/>
+</p>
 
 #### Fetching data
 
-![main](/src/assets/Fetching.png "Fetching data")
+<p align="center">
+ <img src="/src/assets/Fetching.png" alt="drawing" width="500"/>
+</p>
 
 #### Error fetching
 
-![main](/src/assets/ErrorFetching.png "Error fetching")
+<p align="center">
+ <img src="/src/assets/ErrorFetching.png" alt="drawing" width="500"/>
+</p>
 
 <p>
     <img src="/src/assets/main.png" hspace="10" >
