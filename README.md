@@ -8,12 +8,12 @@
 - handling errors and loading situations
 
 <p>
-    <img src="/src/assets/main.png/100/100" hspace="10" >
-    <img src="/src/assets/Cart.png/100/100" hspace="10" >
-    <img src="/src/assets/Checkout.png/100/100" hspace="10" >
-    <img src="/src/assets/Success.png/100/100" hspace="10" >
-    <img src="/src/assets/Fetching.png/100/100" hspace="10" >
-    <img src="/src/assets/ErrorFetching.png/100/100" hspace="10" >
+    <img src="/src/assets/main.png/400/100" hspace="10" >
+    <img src="/src/assets/Cart.png/400/100" hspace="10" >
+    <img src="/src/assets/Checkout.png/400/100" hspace="10" >
+    <img src="/src/assets/Success.png/400/100" hspace="10" >
+    <img src="/src/assets/Fetching.png/400/100" hspace="10" >
+    <img src="/src/assets/ErrorFetching.png/400/100" hspace="10" >
 </p>
 
 ## Getting started
