@@ -7,55 +7,40 @@
 - Modal window with success message
 - handling errors and loading situations
 
-#### Main page
+<h4 align="center">Main page</h4>
 
 <p align="center">
  <img src="/src/assets/main.png" alt="drawing" width="500"/>
 </p>
 
-#### Cart
+<h4 align="center">Cart</h4>
 
 <p align="center">
  <img src="/src/assets/Cart.png" alt="drawing" width="500"/>
 </p>
 
-#### Checkout
+<h4 align="center">Checkout</h4>
 
 <p align="center">
  <img src="/src/assets/Checkout.png" alt="drawing" width="500"/>
 </p>
 
-#### Order success
+<h4 align="center">Order success</h4>
 
 <p align="center">
  <img src="/src/assets/Success.png" alt="drawing" width="500"/>
 </p>
 
-#### Fetching data
+<h4 align="center">Fetching data</h4>
 
 <p align="center">
  <img src="/src/assets/Fetching.png" alt="drawing" width="500"/>
 </p>
 
-#### Error fetching
+<h4 align="center">Error fetching</h4>
 
 <p align="center">
  <img src="/src/assets/ErrorFetching.png" alt="drawing" width="500"/>
-</p>
-
-<p>
-    <img src="/src/assets/main.png" hspace="10" >
-    > Main page
-    <img src="/src/assets/Cart.png" hspace="10" >
-    > Cart
-    <img src="/src/assets/Checkout.png" hspace="10" >
-    > Checkout
-    <img src="/src/assets/Success.png" hspace="10" >
-    > Order success
-    <img src="/src/assets/Fetching.png" hspace="10" >
-    > Fetching data
-    <img src="/src/assets/ErrorFetching.png" hspace="10" >
-    > Error fetching
 </p>
 
 ## Getting started
