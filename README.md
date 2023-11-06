@@ -7,6 +7,24 @@
 - Modal window with success message
 - handling errors and loading situations
 
+![main](/src/assets/main.png "Main page")
+
+> Main page
+
+![main](/src/assets/Cart.png "Cart")
+
+> Cart
+
+![main](/src/assets/Checkout.png "Checkout")
+
+> Checkout
+
+![main](/src/assets/Success.png "Order success")
+
+![main](/src/assets/Fetching.png "Fetching data")
+
+![main](/src/assets/ErrorFetching.png "Error fetching")
+
 <p>
     <img src="/src/assets/main.png" hspace="10" >
     > Main page
