@@ -8,7 +8,7 @@
 - handling errors and loading situations
 
 > Main page
-> <img src="/src/assets/main.png" alt="drawing" width="200"/>
+> <img src="/src/assets/main.png" alt="drawing" width="400"/>
 
 > Cart
 > ![main](/src/assets/Cart.png "Cart")
