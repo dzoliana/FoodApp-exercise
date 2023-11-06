@@ -9,11 +9,11 @@
 
 #### Main page
 
- <img src="/src/assets/main.png" alt="drawing" width="500"/>
+ <img align="center" src="/src/assets/main.png" alt="drawing" width="500"/>
 
 #### Cart
 
- <img src="/src/assets/Cart.png" alt="drawing" width="500"/>
+ <img align="center" src="/src/assets/Cart.png" alt="drawing" width="500"/>
 
 #### Checkout
 
