@@ -9,8 +9,9 @@
 
 #### Main page
 
- <img align="center" src="/src/assets/main.png" alt="drawing" width="500"/>
-
+<p align="center">
+ <img src="/src/assets/main.png" alt="drawing" width="500"/>
+</p>
 #### Cart
 
  <img align="center" src="/src/assets/Cart.png" alt="drawing" width="500"/>
