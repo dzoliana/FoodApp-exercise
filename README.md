@@ -8,10 +8,10 @@
 - handling errors and loading situations
 
 > Main page
-> <img src="/src/assets/main.png" alt="drawing" width="400"/>
+> <img src="/src/assets/main.png" alt="drawing" width="500"/>
 
 > Cart
-> ![main](/src/assets/Cart.png "Cart")
+> <img src="/src/assets/Cart.png" alt="drawing" width="500"/>
 
 > Checkout
 > ![main](/src/assets/Checkout.png "Checkout")
